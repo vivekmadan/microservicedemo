@@ -24,7 +24,7 @@ public class HelloController {
     
     @GetMapping("/world")
     public String helloWorld() {
-        return "Hello World - V2";
+        return "Hello World - V3 - Pipeline Enabled";
     }
     
 }
